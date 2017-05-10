@@ -1,0 +1,32 @@
+Hello World
+    message broker
+    producer
+    queue
+        Message queue
+        work/task queue
+        exchange
+    consumer
+    life cycle
+        send
+        store
+        consume
+    AMQP 0.9.1 protocal
+    
+    
+Work/Task Queues
+    Distribute expensive tasks
+    Round Robin Dispatching
+    Fair Dispatching
+    Message acknowledgement
+    Persistance
+        Message Durability
+        Queue durability
+    
+    
+Publish/Subscribe
+    One msg many consumers
+    Exchanges
+        direct
+        topic
+        headers
+        fanout
