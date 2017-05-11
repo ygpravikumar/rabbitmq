@@ -30,3 +30,16 @@ Publish/Subscribe
         topic
         headers
         fanout
+
+Routing
+    Binding
+        Exchange and a queue
+    Direct exchange
+        Selective listening
+        Can be used like fanout
+        queue
+            Single binding 
+            mutiple binding
+
+        
+        
